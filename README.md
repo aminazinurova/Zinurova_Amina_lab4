@@ -157,7 +157,7 @@
 В результате были найдены согласные буквы `в, к, м`, которые входят ровно в одно слово (например, `в` и `м` есть только в слове «Тестовым», а `к` — только в слове «текст»). 
 Это доказывает, что программа защищена от ошибок, связанных с отсутствием файла.
 
-<img width="382" height="152" alt="image" src="https://github.com/user-attachments/assets/76cd078b-a0c8-4dc8-8b45-327d8119f6ec" />
+<img width="767" height="112" alt="image" src="https://github.com/user-attachments/assets/c6edba69-1d2b-4ead-ae8f-dded9233fa86" />
 <img width="382" height="152" alt="image" src="https://github.com/user-attachments/assets/a162baae-7ae1-4757-b2b4-fe632a4797c7" />
 
 # Задание 5. Dictionary/SortedList
