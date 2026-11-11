@@ -190,6 +190,8 @@
 
 <img width="410" height="165" alt="image" src="https://github.com/user-attachments/assets/3898f68a-a79a-41bd-9b6b-303534ddf1bb" />
 
+<img width="365" height="222" alt="image" src="https://github.com/user-attachments/assets/d1400e5d-0f17-4e71-adee-d652b43ae8eb" />
+
 ## Проект 2. Перегрузка операторов (Задания 6-7)
 
 # Задание 6 и 7. Класс Point
