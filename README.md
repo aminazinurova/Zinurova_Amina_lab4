@@ -186,7 +186,7 @@
 
 **Важный момент:** у Алексеева Димы и Власова Николая одинаковое количество баллов (22). Программа корректно обработала эту ситуацию и вывела **обоих** участников на 3-е место, как и требует условие задачи.
 
-<img width="410" height="165" alt="image" src="https://github.com/user-attachments/assets/fec3472a-f22e-4574-8f10-e6cbd66dda8e" />
+<img width="462" height="877" alt="image" src="https://github.com/user-attachments/assets/6f73b18a-09df-42ea-b5c6-b706460d0a98" />
 
 <img width="410" height="165" alt="image" src="https://github.com/user-attachments/assets/3898f68a-a79a-41bd-9b6b-303534ddf1bb" />
 
