@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Lab4
+namespace Lab4_Part2
 {
     internal class Checked
     {
